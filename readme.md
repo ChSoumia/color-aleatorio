@@ -1,0 +1,2 @@
+### Generador de colores hexadecimales aleatorios:
+Proyecto de un generador de colores hexadecimales aleatorios. Generaremos un color hexadecimal aleatorio y lo asignaremos como color de fondo del elemento body.
